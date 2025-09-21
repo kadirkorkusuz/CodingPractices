@@ -1,4 +1,4 @@
-package com.korkusuz.hackerrank.java;
+package com.korkusuz.hackerrank.java.Introduction;
 
 public class Introduction01 {
 

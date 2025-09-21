@@ -1,4 +1,4 @@
-package com.korkusuz.hackerrank.java;
+package com.korkusuz.hackerrank.java.Introduction;
 
 import java.util.*;
 import java.math.BigInteger;

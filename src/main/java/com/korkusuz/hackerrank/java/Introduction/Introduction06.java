@@ -1,4 +1,4 @@
-package com.korkusuz.hackerrank.java;
+package com.korkusuz.hackerrank.java.Introduction;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,10 +1,7 @@
-package com.korkusuz.hackerrank.java;
+package com.korkusuz.hackerrank.java.Introduction;
 
-import java.io.*;
 import java.util.*;
 import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class Introduction13 {
     public static void main(String[] args) {
